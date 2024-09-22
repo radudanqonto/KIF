@@ -2,7 +2,7 @@
 
 **IMPORTANT! Even though KIF is used to test your UI, you need to add it to your Unit Test target, _not_ your UI Test target. The magic of KIF is that it allows you to drive your UI from your unit tests and reap all the advantages of testing in-process.**
 
-KIF iOS Integration Testing Framework
+KIF iOS Integration Testing Framework (fork)
 =====================================
 
 KIF, which stands for Keep It Functional, is an iOS integration test framework. It allows for easy automation of iOS apps by leveraging the accessibility attributes that the OS makes available for those with visual disabilities.
